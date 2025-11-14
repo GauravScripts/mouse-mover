@@ -28,7 +28,7 @@ When using Microsoft Teams or working on a laptop with screen lock enabled after
 Watch the application in action:
 
 <video width="600" controls>
-  <source src="video/recording.mp4" type="video/mp4">
+  <source src="https://github.com/GauravScripts/mouse-mover/raw/refs/heads/master/video/recording.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
