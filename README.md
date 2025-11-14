@@ -23,6 +23,14 @@ When using Microsoft Teams or working on a laptop with screen lock enabled after
 4. **User Control**: Press the **ESC** key to stop the application at any time
 5. **Manual Activity**: If you manually move the mouse, the timer resets
 
+## Demo Video
+
+Watch the application in action:
+
+[![Mouse Mover Demo](https://img.shields.io/badge/Demo-Video-blue?style=for-the-badge)](./recording.mp4)
+
+[Click here to view the demo video](./recording.mp4)
+
 ## Prerequisites
 
 - Java 8 or higher
