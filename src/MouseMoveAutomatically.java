@@ -28,7 +28,6 @@ import javax.swing.*;
  *
  * @author gauravscripts
  * @version 1.0
- * @since 2024
  */
 public class MouseMoveAutomatically {
     /**
