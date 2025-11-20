@@ -29,6 +29,7 @@ import javax.swing.*;
  * @author gauravscripts
  * @version 1.0
  */
+
 public class MouseMoveAutomatically {
     /**
      * Flag to control whether the application is currently running.
